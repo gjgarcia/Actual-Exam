@@ -11,7 +11,6 @@ public class JunitTesting {
 	public void test() {
 		Person a = new Person();
 		
-  
 
    	 Car new_car= new Car();
    	 new_car.setOwner(a);

@@ -8,6 +8,7 @@ package mainpackage;
 			// TODO Auto-generated constructor stub
 		}
 		
+		
 		private boolean hasSideCar;
 
 		public boolean isHasSideCar() {

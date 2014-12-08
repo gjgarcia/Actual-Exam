@@ -10,6 +10,7 @@ private int NumberOfAxels;
 		return NumberOfAxels1;
 	}
 
+	
 	public void setNumberOfAxels(int numberOfAxels) {
 		NumberOfAxels1 = numberOfAxels;
 	}

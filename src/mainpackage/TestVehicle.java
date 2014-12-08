@@ -11,9 +11,7 @@ public class TestVehicle {
 	    	 Person a = new Person();
 	    	 a.setFirstName("a");
 	    	
-	    	
-
-	    	
+	    
 	    	 
 	    	 MotorCycle new_motorcycle= new MotorCycle();
 	    	 new_motorcycle.setHasSideCar(false);

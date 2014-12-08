@@ -6,6 +6,7 @@ public class Car extends Vehicle implements Interface {
 		return NumOfDoors;
 	}
 
+	
 	public void setNumberOfDoors(int numberOfDoors) {
 		NumOfDoors = numberOfDoors;
 	}
